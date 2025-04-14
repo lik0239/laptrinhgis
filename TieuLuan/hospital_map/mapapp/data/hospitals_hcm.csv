@@ -1,0 +1,31 @@
+name,address,lat,lng,image_url
+Bệnh viện Chợ Rẫy,"201B Nguyễn Chí Thanh, Phường 12, Quận 5, TP.HCM",10.7569,106.6636,https://www.choray.vn/assets/logo.png
+Bệnh viện Đại học Y Dược,"215 Hồng Bàng, Phường 11, Quận 5, TP.HCM",10.7622,106.6783,https://www.ump.edu.vn/uploads/logo.png
+Bệnh viện Từ Dũ,"284 Cống Quỳnh, Phường Phạm Ngũ Lão, Quận 1, TP.HCM",10.7649,106.6881,https://tudu.com.vn/uploads/logo.png
+Bệnh viện Hùng Vương,"128 Hồng Bàng, Phường 12, Quận 5, TP.HCM",10.7627,106.6737,https://bvhungvuong.vn/uploads/logo.png
+Bệnh viện Nhi Đồng 1,"341 Sư Vạn Hạnh, Phường 10, Quận 10, TP.HCM",10.7701,106.6735,https://bvnd1.org.vn/logo.png
+Bệnh viện Giả Lập 6,"106 Đường Số 6, Phường 7, Quận 7, TP.HCM",10.756,106.666,https://example.com/images/hospital6.jpg
+Bệnh viện Giả Lập 7,"107 Đường Số 7, Phường 8, Quận 8, TP.HCM",10.757,106.667,https://example.com/images/hospital7.jpg
+Bệnh viện Giả Lập 8,"108 Đường Số 8, Phường 9, Quận 9, TP.HCM",10.758,106.668,https://example.com/images/hospital8.jpg
+Bệnh viện Giả Lập 9,"109 Đường Số 9, Phường 10, Quận 10, TP.HCM",10.759,106.669,https://example.com/images/hospital9.jpg
+Bệnh viện Giả Lập 10,"110 Đường Số 10, Phường 1, Quận 11, TP.HCM",10.76,106.67,https://example.com/images/hospital10.jpg
+Bệnh viện Giả Lập 11,"111 Đường Số 11, Phường 2, Quận 12, TP.HCM",10.761,106.671,https://example.com/images/hospital11.jpg
+Bệnh viện Giả Lập 12,"112 Đường Số 12, Phường 3, Quận 1, TP.HCM",10.762,106.672,https://example.com/images/hospital12.jpg
+Bệnh viện Giả Lập 13,"113 Đường Số 13, Phường 4, Quận 2, TP.HCM",10.763,106.673,https://example.com/images/hospital13.jpg
+Bệnh viện Giả Lập 14,"114 Đường Số 14, Phường 5, Quận 3, TP.HCM",10.764,106.674,https://example.com/images/hospital14.jpg
+Bệnh viện Giả Lập 15,"115 Đường Số 15, Phường 6, Quận 4, TP.HCM",10.765,106.675,https://example.com/images/hospital15.jpg
+Bệnh viện Giả Lập 16,"116 Đường Số 16, Phường 7, Quận 5, TP.HCM",10.766,106.676,https://example.com/images/hospital16.jpg
+Bệnh viện Giả Lập 17,"117 Đường Số 17, Phường 8, Quận 6, TP.HCM",10.767,106.677,https://example.com/images/hospital17.jpg
+Bệnh viện Giả Lập 18,"118 Đường Số 18, Phường 9, Quận 7, TP.HCM",10.768,106.678,https://example.com/images/hospital18.jpg
+Bệnh viện Giả Lập 19,"119 Đường Số 19, Phường 10, Quận 8, TP.HCM",10.769,106.679,https://example.com/images/hospital19.jpg
+Bệnh viện Giả Lập 20,"120 Đường Số 20, Phường 1, Quận 9, TP.HCM",10.77,106.68,https://example.com/images/hospital20.jpg
+Bệnh viện Giả Lập 21,"121 Đường Số 21, Phường 2, Quận 10, TP.HCM",10.771,106.681,https://example.com/images/hospital21.jpg
+Bệnh viện Giả Lập 22,"122 Đường Số 22, Phường 3, Quận 11, TP.HCM",10.772,106.682,https://example.com/images/hospital22.jpg
+Bệnh viện Giả Lập 23,"123 Đường Số 23, Phường 4, Quận 12, TP.HCM",10.773,106.683,https://example.com/images/hospital23.jpg
+Bệnh viện Giả Lập 24,"124 Đường Số 24, Phường 5, Quận 1, TP.HCM",10.774,106.684,https://example.com/images/hospital24.jpg
+Bệnh viện Giả Lập 25,"125 Đường Số 25, Phường 6, Quận 2, TP.HCM",10.775,106.685,https://example.com/images/hospital25.jpg
+Bệnh viện Giả Lập 26,"126 Đường Số 26, Phường 7, Quận 3, TP.HCM",10.776,106.686,https://example.com/images/hospital26.jpg
+Bệnh viện Giả Lập 27,"127 Đường Số 27, Phường 8, Quận 4, TP.HCM",10.777,106.687,https://example.com/images/hospital27.jpg
+Bệnh viện Giả Lập 28,"128 Đường Số 28, Phường 9, Quận 5, TP.HCM",10.778,106.688,https://example.com/images/hospital28.jpg
+Bệnh viện Giả Lập 29,"129 Đường Số 29, Phường 10, Quận 6, TP.HCM",10.779,106.689,https://example.com/images/hospital29.jpg
+Bệnh viện Giả Lập 30,"130 Đường Số 30, Phường 1, Quận 7, TP.HCM",10.78,106.69,https://example.com/images/hospital30.jpg

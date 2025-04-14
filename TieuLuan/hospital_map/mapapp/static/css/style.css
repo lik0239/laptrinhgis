@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  header, footer {
+    background: #007bff;
+    color: white;
+    text-align: center;
+    padding: 15px;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  #map {
+    height: 80vh;
+    width: 100%;
+    margin-top: 10px;
+  }
+  

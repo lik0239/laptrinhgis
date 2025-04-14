@@ -1,0 +1,28 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>{% block title %}Bản đồ bệnh viện{% endblock %}</title>
+  <link rel="stylesheet" href="{% static 'css/style.css' %}">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <header>
+    <h1>Bản đồ Bệnh viện TP.HCM</h1>
+    <nav>
+      <a href="{% url 'home' %}">Trang chủ</a> |
+      <a href="{% url 'map' %}">Bản đồ</a>
+    </nav>
+  </header>
+  <main>
+    {% block content %}{% endblock %}
+  </main>
+  <footer>
+    <p>&copy; 2025</p>
+  </footer>
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="{% static 'js/map.js' %}"></script>
+  {% block scripts %}{% endblock %}
+</body>
+</html>
